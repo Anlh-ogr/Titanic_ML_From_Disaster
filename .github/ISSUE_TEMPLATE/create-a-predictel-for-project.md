@@ -2,7 +2,7 @@
 name: create a predictel for project
 about: Suggest an idea for this project
 title: Initialize "Titanic Machine Learning for Disaster" Project
-labels: ''
+labels: 'project', 'machine-learning', 'Titanic', 'disaster'
 assignees: Anlh-morgan
 
 ---
