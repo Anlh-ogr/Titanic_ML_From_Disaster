@@ -1,4 +1,4 @@
-# Project Board - Titanic Machine Learning
+# Titanic_ML_From_Disaster
 
 ## 1. Data Collection
 
