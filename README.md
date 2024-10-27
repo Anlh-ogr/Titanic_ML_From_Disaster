@@ -19,3 +19,6 @@ Ready to start?
     3. EDA (Exploratory Data Analysis).
 
     4. Train, Tune and Ensemble machine learning models.
+
+Result
+![image](https://github.com/user-attachments/assets/9354f6e7-8bbd-46fa-bdff-caa8ffdfb302)
